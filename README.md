@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Haider 👋</h1>
 
 <p align="center">
-  Frontend Developer · Karachi, Pakistan 🇵🇰
+  Full Stack Developer | Web Solutions | Digital Design · Karachi, Pakistan 🇵🇰
 </p>
 
 <p align="center">
@@ -14,9 +14,11 @@
 
 ### 👨‍💻 About Me
 
-CS graduate actively building real-world projects in frontend development.
-I focus on writing clean code and shipping things that actually work.
-Currently expanding my stack and uploading meaningful projects as I go.
+I'm a Full Stack Developer who enjoys building modern, responsive websites and practical digital solutions for businesses and individuals.
+
+I focus on writing clean, maintainable code, creating intuitive user experiences, and delivering reliable results. My experience includes frontend and backend development, real-time applications, REST APIs, and modern web technologies.
+
+I'm always learning and continuously improving my skills while building projects that solve real-world problems.
 
 - 🎓 B.S. Computer Science — SSUET, Karachi (2023)
 - 📄 Published IEEE paper on a peer-to-peer tutoring marketplace
