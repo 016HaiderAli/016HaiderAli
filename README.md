@@ -23,8 +23,10 @@ I'm always learning and continuously improving my skills while building projects
 - 🎓 B.S. Computer Science — SSUET, Karachi (2023)
 - 📄 Published IEEE paper on a peer-to-peer tutoring marketplace
 - 💼 Background in data analysis and customer service
-- 🌱 Currently learning: React, Django, and AI integrations
-- 🤝 Open to opportunities
+- 💻 Experience building responsive web applications
+- ⚡ Interested in automation and modern web technologies
+- 🚀 Always improving through real-world projects
+- 🤝 Open to freelance and collaboration opportunities
 
 ---
 
