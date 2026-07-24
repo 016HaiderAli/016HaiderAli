@@ -53,7 +53,7 @@ I'm always learning and continuously improving my skills while building projects
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
 | [TechStore Pro](https://github.com/016HaiderAli/techstore-pro) | Full e-commerce app with cart, wishlist, API integration and 10 pages | React, React Router, REST API | [Live ↗](https://techstore-d2g5m1cy6-haider-ali1.vercel.app) |
-| [Portfolio](https://github.com/016HaiderAli/Portfolio) | Personal portfolio with dark fantasy theme and voice acting showroom | HTML, CSS, JS | [Live ↗](https://016haiderali.github.io/Portfolio/) |
+| [Portfolio](https://github.com/016HaiderAli/Portfolio) | Personal portfolio with dark fantasy theme and voice acting showroom | HTML, CSS, JS, EmailJs | [Live ↗](https://016haiderali.github.io/Portfolio/) |
 
 ---
 
